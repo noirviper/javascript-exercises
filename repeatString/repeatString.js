@@ -16,8 +16,6 @@ const repeatString = function(string, repeatNum) {
         return stringContainer;    
     }
     
-
-    
 }
 
 module.exports = repeatString
